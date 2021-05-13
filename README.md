@@ -14,36 +14,27 @@ Monthly CSV files (July 2019- June 2020) were collected from [Citi Bike Data web
 
 ## Analysis 
 
-1. Total trips
+### 1. Total trips
 
 There were a total of 372,446 number of trips made. The graph is color coded by season. We can clearly see a spike in usage during the warmer months and a decrease once the weather drops.
 
-![numberoftrips](./pictures/numberoftrips.png)
+![numberoftrips](./Images/numberoftrips.png)
 
-2. By what percentage has total ridership grown?
+### 2. The 10 Top & Bottom Stations
 
-3. How has the proportion of short-term customers and annual subscribers changed?
+![topsbottom](./Images/topsbottom.png)
 
-4. What are the peak hours in which bikes are used during summer months?
+### 3. The 10 Top Stations Visualization 
 
-5. What are the peak hours in which bikes are used during winter months?
+![topviz](./Images/topviz.png)
 
-6. Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
+### 3. What are the peak hours?
+We can clearly see that peak hours are concurrent with a standard 9 - 5 job. Peak hours in the morning is predominantly at 8 am; the peak resumes between 5 - 7 pm.
 
-7. Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
+![peakhours](./Images/peakhours.png)
 
-8. Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
+### 4. Trip Distance and Duration by Age
 
-9. Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
+![distance](./Images/distance.png)
 
-10. Today, what is the gender breakdown of active participants (Male v. Female)?
 
-11. How effective has gender outreach been in increasing female ridership over the timespan?
-
-12. How does the average trip duration change by age?
-
-13. What is the average distance in miles that a bike is ridden?
-
-14. Which bikes (by ID) are most likely due for repair or inspection in the timespan?
-
-15. How variable is the utilization by bike ID?
